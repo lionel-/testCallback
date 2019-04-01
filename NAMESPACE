@@ -1,0 +1,1 @@
+useDynLib(testCallback, .registration = TRUE)
